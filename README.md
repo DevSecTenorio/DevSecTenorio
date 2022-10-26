@@ -6,7 +6,7 @@
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)]()
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]()
 
-![Tenorio GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSecTenorio&show_icons=true&theme=radical)
+![Tenorio GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSecTenorio&show_icons=true&theme=blue-green)
 
 ### Tecnologias que uso no meu dia a dia:
 <div style="display:inline_block"><br/>
