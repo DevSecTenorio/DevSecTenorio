@@ -43,7 +43,7 @@
     <img align="center" alt="html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"/>
  </div><br/>
  
- ### Minhas Playlists
+ ### Listas de Reprodução
  
 [![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://deezer.page.link/Bp4KGTrdYAN8A5yx7)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5wjA0yKmsVybilZogO1ThP?si=c3338bc4465147de)
