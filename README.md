@@ -2,7 +2,7 @@
 
 ### A evolução leva tempo e se dá à medida que busca o conhecimento. (Isabela Cantieri)
 
-### Tenho buscado diariamente a evolução, para melhor contribuir no desenvolvimento da sociedade. 
+### Tenho buscado diariamente a evolução, para melhor contribuir no desenvolvimento da sociedade.  </br></br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-mendes-abb71ba7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/21mendes.tenorio/)
