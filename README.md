@@ -7,9 +7,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-mendes-abb71ba7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/21mendes.tenorio/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)]()
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]()
 
 <div>
     <a href="">
@@ -49,6 +48,7 @@
     <img align="center" alt="html5" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg/2097px-Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg.png"/>
     <img align="center" alt="html5" height="30" width="30" src="https://seeklogo.com/images/I/IFS-logo-173A4409E3-seeklogo.com.png"/>
     <img align="center" alt="html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"/>
+    <img align="center" alt="html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
  </div><br/>
  
  ### Listas de Reprodução
