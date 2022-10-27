@@ -11,8 +11,11 @@
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
-![Tenorio GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSecTenorio&show_icons=true&theme=blue-green)
-![Estatísticas do Tenório Github](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSecTenorio&theme=blue-green)
+<div>
+    <a href="">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSecTenorio&show_icons=true&theme=blue-green"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSecTenorio&theme=blue-green"/>
+</div>
 
 ### Tecnologias que uso no meu dia a dia:
 <div style="display:inline_block"><br/>
