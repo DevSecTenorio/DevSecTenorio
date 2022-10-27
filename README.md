@@ -12,6 +12,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
 ![Tenorio GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSecTenorio&show_icons=true&theme=blue-green)
+![Estatísticas do Tenório Github](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSecTenorio&theme=blue-green)
 
 ### Tecnologias que uso no meu dia a dia:
 <div style="display:inline_block"><br/>
